@@ -11,7 +11,7 @@ const Cards2 = () => {
   return (
     <>
     <div style={{Sty}}>
-        <Cards name='Love Damini' ratings='9/10' />
+        <Cards name='Love Daminis' ratings='9/10' />
           <Cards name='Boy Alone ' ratings='6/10'/>
           <Cards name='Billion Baby ' ratings='10/10'/>
     </div>
